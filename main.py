@@ -13,3 +13,5 @@ class Blender(Device):
 class MeatGrinder(Device):
     pass
 
+x = CoffeMachine(50, "IDK55", "black")
+print(x.price)
